@@ -430,6 +430,30 @@
     [
       "3afeac1e-4efb-49da-a807-0246d16a5b7c",
       "FRAM"
+    ],
+    [
+      "526171c6-314a-4f8f-8a9d-4819d67cb4ae",
+      "Digital IO"
+    ],
+    [
+      "2c39d897-650c-428c-9008-d3eca2123676",
+      "Digital In Fast"
+    ],
+    [
+      "f553d9df-90fc-4f8b-a3d9-8e1c7e563748",
+      "Digital Out Fast"
+    ],
+    [
+      "33e8852e-0db0-49cf-ac0b-898432cfc03f",
+      "Digital In Slow"
+    ],
+    [
+      "3d45465b-4a6a-421b-bc8e-9dcb2811c3cd",
+      "Digital Out Slow"
+    ],
+    [
+      "44ca7f02-551b-4c18-a1e1-d54a2c25c833",
+      "IO Expander In"
     ]
   ],
   "text_variables": {}
