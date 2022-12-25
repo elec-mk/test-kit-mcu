@@ -191,7 +191,6 @@
     )
   )
 
-
   (junction (at 111.76 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 022afd01-8a9f-4957-8b36-6e3028c2e4c1)
   )
@@ -589,7 +588,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 44ca7f02-551b-4c18-a1e1-d54a2c25c833)
-    (property "Sheet name" "IO Expander In" (id 0) (at 50.8 72.9484 0)
+    (property "Sheet name" "IO Expander" (id 0) (at 50.8 72.9484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "io_expander_16.kicad_sch" (id 1) (at 50.8 89.4846 0)

@@ -425,11 +425,7 @@
     ],
     [
       "3a1711a8-f0e8-4e52-aaa8-eacfa72fbaf2",
-      "Analogue Buffers"
-    ],
-    [
-      "3afeac1e-4efb-49da-a807-0246d16a5b7c",
-      "FRAM"
+      "Analogue Inputs"
     ],
     [
       "526171c6-314a-4f8f-8a9d-4819d67cb4ae",
@@ -453,7 +449,19 @@
     ],
     [
       "44ca7f02-551b-4c18-a1e1-d54a2c25c833",
-      "IO Expander In"
+      "IO Expander"
+    ],
+    [
+      "e188e63f-6ce1-456d-b9a9-80fafd9dbd25",
+      "Comms"
+    ],
+    [
+      "cf6753ea-ec29-4493-b5d0-3f4d0ef75e7d",
+      "Timer IO"
+    ],
+    [
+      "1881c526-1f26-4a64-a66c-d05a9a4db7b5",
+      "MCU - Power"
     ]
   ],
   "text_variables": {}
